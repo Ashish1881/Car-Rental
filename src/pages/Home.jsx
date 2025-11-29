@@ -3,6 +3,7 @@ import Hero from "../components/Hero";
 import FeaturedSection from "../components/featuredSection";
 import Banner from "../components/Banner";
 import Testimonial from "../components/Testimonial";
+import NewsLetter from "../components/NewsLetter";
 
 function Home() {
   return (
@@ -11,6 +12,7 @@ function Home() {
       <FeaturedSection />
       <Banner />
       <Testimonial />
+      <NewsLetter />
     </div>
   );
 }
