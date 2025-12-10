@@ -1,7 +1,7 @@
 import React from "react";
 
-function ManageCar() {
+function ManageCars() {
   return <div>ManageCar</div>;
 }
 
-export default ManageCar;
+export default ManageCars;
